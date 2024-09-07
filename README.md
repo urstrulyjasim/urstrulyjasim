@@ -2,11 +2,11 @@
 <h1 align="center">Hi 👋, I'm Mohammad Jasim Uddin</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-<p align="left"> <a href="https://facebook.com/yourstrulyjasim" target="blank"><img src="https://img.shields.io/facebook/follow/yourstrulyjasim?logo=facebook&style=for-the-badge" alt="yourstrulyjasim" /></a> </p>
+<p align="left"> <a href="https://facebook.com/yourstrulyjasim" target="blank"><img src="https://img.shields.io/badge/Facebook-Connect-brightgreen?style=for-the-badge&labelColor=black&logo=facebook" alt="yourstrulyjasim" /></a> </p>
 
-- 📫 How to reach me **https://www.facebook.com/yourstrulyjasim**
 
-- ⚡ Fun fact **I think I am funny :)**
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
