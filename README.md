@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Mohammad Jasim Uddin</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-<p align="left"> <a href="https://twitter.com/urstrulyjasim" target="blank"><img src="https://img.shields.io/twitter/follow/urstrulyjasim?logo=twitter&style=for-the-badge" alt="urstrulyjasim" /></a> </p>
+<p align="left"> <a href="https://facebook.com/yourstrulyjasim" target="blank"><img src="https://img.shields.io/facebook/follow/yourstrulyjasim?logo=facebook&style=for-the-badge" alt="yourstrulyjasim" /></a> </p>
 
 - 📫 How to reach me **https://www.facebook.com/yourstrulyjasim**
 
