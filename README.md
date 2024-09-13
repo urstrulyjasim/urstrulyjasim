@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <a href="https://facebook.com/yourstrulyjasim" target="blank"><img src="https://img.shields.io/badge/Facebook-Connect-brightgreen?style=for-the-badge&labelColor=black&logo=facebook" alt="yourstrulyjasim" /></a> </p>
 
-- 📫 How to reach me **https://www.facebook.com/yourstrulyjasim**
+- 📫 How to reach me **mohammadjasim229@gmail.com**
 
 
 
